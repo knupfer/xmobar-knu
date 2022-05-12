@@ -6,7 +6,7 @@ license:            MIT
 author:             knupfer
 maintainer:         fknupfer@gmail.com
 
-executable xmobar-knu
+executable xmobar
     main-is:          Main.hs
     build-depends:    base ^>=4.15.1.0
                     , xmobar
